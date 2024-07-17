@@ -1,9 +1,14 @@
 {
   "members": [
     {
-    "name": "Sandeep",
-    "position": "ui engg",
-    "subteam": "Transformers"
-  }
+      "name": "Sandeep",
+      "position": "UI Engg.",
+      "subteam": "Transformers"
+    },     
+    {
+      "name": "Goutham",
+      "position": "BE Engg.",
+      "subteam": "Transformers"
+    }
   ]
 }
